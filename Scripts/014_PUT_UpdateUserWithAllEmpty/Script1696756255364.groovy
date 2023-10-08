@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 GlobalVariable.name = ''
 GlobalVariable.job = ''
 
-response = WS.sendRequest(findTestObject('PUT Update User', [('Base_URL') : GlobalVariable.Base_URL, ('id') : GlobalVariable.id, ('username') : GlobalVariable.username
+response = WS.sendRequest(findTestObject('PUT Update User', [('Base_URL') : GlobalVariable.Base_URL, ('id') : GlobalVariable.id, ('username') : GlobalVariable.email
 			, ('password') : GlobalVariable.password]))
 
 WS.verifyResponseStatusCode(response, 400, FailureHandling.STOP_ON_FAILURE)

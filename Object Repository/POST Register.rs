@@ -11,7 +11,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;: \&quot;${username}\&quot;,\n    \&quot;password\&quot;: \&quot;${password}\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;: \&quot;${email}\&quot;,\n    \&quot;password\&quot;: \&quot;${password}\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -45,11 +45,11 @@
       <name>Base_URL</name>
    </variables>
    <variables>
-      <defaultValue>GlobalVariable.username</defaultValue>
+      <defaultValue>GlobalVariable.email</defaultValue>
       <description></description>
       <id>357b7b0d-0a9b-4434-a0d6-45db7edab019</id>
       <masked>false</masked>
-      <name>username</name>
+      <name>email</name>
    </variables>
    <variables>
       <defaultValue>GlobalVariable.password</defaultValue>

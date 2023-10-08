@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 response = WS.sendRequest(findTestObject('GET Single User', [('Base_URL') : GlobalVariable.Base_URL, ('id') : GlobalVariable.id]))
 
 WS.verifyResponseStatusCode(response, 200, FailureHandling.STOP_ON_FAILURE)
 
 WS.verifyElementPropertyValue(response, 'data.id', 1)
-

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-GlobalVariable.username = 'eve.holt@reqres.in'
+GlobalVariable.email = 'eve.holt@reqres.in'
 GlobalVariable.password = ''
 
 response = WS.sendRequest(findTestObject('POST Register', [('Base_URL') : GlobalVariable.Base_URL]))

@@ -31,12 +31,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'eve.holt@reqres.in'</initValue>
-      <name>username</name>
+      <initValue>''</initValue>
+      <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'pistol'</initValue>
+      <initValue>''</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

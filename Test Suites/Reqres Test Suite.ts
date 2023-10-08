@@ -57,7 +57,7 @@
       <guid>42e2a32a-b4fa-4057-a6e0-6046432c037a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/007_POST_RegisterWithEmptyUsername</testCaseId>
+      <testCaseId>Test Cases/007_POST_RegisterWithEmptyEmail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -71,7 +71,7 @@
       <guid>a62e7f10-6cf2-451d-b7f8-40a209ffc049</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/009_POST_RegisterWithEmptyUsernameAndPassword</testCaseId>
+      <testCaseId>Test Cases/009_POST_RegisterWithEmptyEmailAndPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
