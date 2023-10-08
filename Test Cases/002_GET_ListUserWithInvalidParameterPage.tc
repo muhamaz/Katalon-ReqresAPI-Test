@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_GET_ListUserWithInvalidParameterPage</name>
+   <tag>@Bug</tag>
+   <comment></comment>
+   <testCaseGuid>e74d9b45-36ad-449f-a621-2c66fa2ff982</testCaseGuid>
+</TestCaseEntity>

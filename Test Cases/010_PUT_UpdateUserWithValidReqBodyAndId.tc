@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010_PUT_UpdateUserWithValidReqBodyAndId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d47351ce-4b72-4dff-a2fd-1bd2edf4daff</testCaseGuid>
+</TestCaseEntity>

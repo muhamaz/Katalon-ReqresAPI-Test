@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>013_PUT_UpdateUserWithEmptyJob</name>
+   <tag>@Bug</tag>
+   <comment></comment>
+   <testCaseGuid>fc97a399-b935-4b2f-b14f-c720375980c7</testCaseGuid>
+</TestCaseEntity>

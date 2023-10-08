@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011_PUT_UpdateUserWithValidReqBodyAndInvalidId</name>
+   <tag>@Bug</tag>
+   <comment></comment>
+   <testCaseGuid>1373b508-e04f-4077-b2ad-91bfcb428fff</testCaseGuid>
+</TestCaseEntity>
